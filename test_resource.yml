@@ -1,0 +1,10 @@
+---
+
+heat_template_version: ocata
+
+description: >
+  test stack
+
+resources:
+  test_resource:
+    type: OS::Heat::TestResource
